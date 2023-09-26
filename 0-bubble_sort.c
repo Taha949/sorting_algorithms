@@ -16,7 +16,7 @@ void swap_ints(int *a, int *b)
 
 /**
  * bubble_sort - order an array
- * @arrayarray
+ * @array: array
  * @size: length
  *
  * Description: ptint
